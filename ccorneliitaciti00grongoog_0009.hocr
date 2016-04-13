@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccorneliitaciti00grongoog/ccorneliitaciti00grongoog_0009.png"; bbox 0 0 3059 4975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 377 1978 1105 2088">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 377 1910 1105 2088">
+     <span class='ocr_line' id='line_1_1' title="bbox 377 1978 1105 2088; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 377 1980 433 2084; x_wconf 84' lang='lat' dir='ltr'>c.</span> <span class='ocrx_word' id='word_1_2' title='bbox 469 1978 820 2087; x_wconf 78' lang='lat' dir='ltr'>CORNELII</span> <span class='ocrx_word' id='word_1_3' title='bbox 857 1980 1105 2088; x_wconf 78' lang='lat' dir='ltr'><strong>TAcffl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 284 2320 1198 2449">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 284 2320 1198 2449">
+     <span class='ocr_line' id='line_1_2' title="bbox 284 2320 1198 2449; baseline 0.004 -4"><span class='ocrx_word' id='word_1_4' title='bbox 284 2320 1198 2449; x_wconf 83' lang='lat' dir='ltr'>HISTORIARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 493 2667 1104 2763">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 493 2667 1104 2763">
+     <span class='ocr_line' id='line_1_3' title="bbox 493 2667 1104 2763; baseline 0 -9"><span class='ocrx_word' id='word_1_5' title='bbox 493 2669 661 2755; x_wconf 86' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 690 2667 983 2763; x_wconf 85' lang='lat' dir='ltr'><strong>QUINQUE.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1101 2726 1104 2732; x_wconf 87' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1534 4975">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1534 4975">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1534 4975; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1534 4975; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
